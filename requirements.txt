@@ -1,8 +1,10 @@
 allennlp==2.0.1
+anyio==2.1.0
 appnope==0.1.2
 argon2-cffi==20.1.0
 async-generator==1.10
 attrs==20.3.0
+Babel==2.9.0
 backcall==0.2.0
 beautifulsoup4==4.9.3
 bleach==3.3.0
@@ -31,6 +33,7 @@ jedi==0.18.0
 Jinja2==2.11.3
 jmespath==0.10.0
 joblib==1.0.1
+json5==0.9.5
 jsonnet==0.17.0
 jsonpickle==2.0.0
 jsonschema==3.2.0
@@ -38,7 +41,10 @@ jupyter==1.0.0
 jupyter-client==6.1.11
 jupyter-console==6.2.0
 jupyter-core==4.7.1
+jupyter-server==1.4.0
+jupyterlab==3.0.8
 jupyterlab-pygments==0.1.2
+jupyterlab-server==2.3.0
 jupyterlab-widgets==1.0.0
 lmdb==1.1.1
 lxml==4.6.2
@@ -46,6 +52,7 @@ MarkupSafe==1.1.1
 mistune==0.8.4
 more-itertools==8.7.0
 murmurhash==1.0.5
+nbclassic==0.2.6
 nbclient==0.5.1
 nbconvert==6.0.7
 nbformat==5.1.2
@@ -98,6 +105,7 @@ sentencepiece==0.1.95
 six==1.15.0
 sklearn==0.0
 smart-open==3.0.0
+sniffio==1.2.0
 snscrape @ git+https://github.com/JustAnotherArchivist/snscrape.git@5cd3b7d7cc3c987dc170d868a976ac8b8d53bda2
 soupsieve==2.1
 spacy==2.3.0
